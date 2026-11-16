@@ -1,5 +1,9 @@
 # 原琴 MIDI 双路桥 · 移动端
 
+[![Build Android APK](https://github.com/WayWarrior/genshin-midi-bridge-mobile/actions/workflows/android.yml/badge.svg)](https://github.com/WayWarrior/genshin-midi-bridge-mobile/actions/workflows/android.yml)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Android%208.0%2B%20%7C%20HarmonyOS%204.x-3ddc84.svg)](#兼容性)
+
 > Genshin MIDI Bridge (Mobile) — 把 USB MIDI 键盘 / 电钢琴接到**手机、平板**上，实时映射成《原神》21 键「风物之诗琴」的触控按键；同时支持导入 MIDI 文件自动演奏。
 
 **这是移动端工程（Android APK / 鸿蒙安卓兼容环境），不是电脑端方案。** 网上同类工程大多跑在 PC 上（模拟键盘、模拟点击），本项目直接跑在手机或平板本地，不经过电脑转发，因此没有「电脑中转」那一层延迟。
