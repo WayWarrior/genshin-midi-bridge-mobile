@@ -1,0 +1,1 @@
+package android.util;import java.util.*;public class IntArray{List<Integer>a=new ArrayList<>();public IntArray(int n){}public void add(int n){a.add(n);}public int get(int i){return a.get(i);}public int size(){return a.size();}public void remove(int i){a.remove(i);}}

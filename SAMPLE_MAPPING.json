@@ -1,0 +1,170 @@
+[
+  {
+    "source": "01_C5.wav",
+    "midi": 72,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.04,
+    "peak": 0.2054
+  },
+  {
+    "source": "02_D5.wav",
+    "midi": 74,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.06,
+    "peak": 0.1596
+  },
+  {
+    "source": "03_E5.wav",
+    "midi": 76,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.2043
+  },
+  {
+    "source": "04_F5.wav",
+    "midi": 77,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.2258
+  },
+  {
+    "source": "05_G5.wav",
+    "midi": 79,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.2512
+  },
+  {
+    "source": "06_A5.wav",
+    "midi": 81,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.2911
+  },
+  {
+    "source": "07_B5.wav",
+    "midi": 83,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.186
+  },
+  {
+    "source": "08_C4.wav",
+    "midi": 60,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.2174
+  },
+  {
+    "source": "09_D4.wav",
+    "midi": 62,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.06,
+    "peak": 0.2531
+  },
+  {
+    "source": "10_E4.wav",
+    "midi": 64,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.02,
+    "peak": 0.2534
+  },
+  {
+    "source": "11_F4.wav",
+    "midi": 65,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.02,
+    "peak": 0.2399
+  },
+  {
+    "source": "12_G4.wav",
+    "midi": 67,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.3264
+  },
+  {
+    "source": "13_A4.wav",
+    "midi": 69,
+    "frames": 221588,
+    "rate": 48000,
+    "onset_above_32_ms": 0.58,
+    "peak": 0.2102
+  },
+  {
+    "source": "14_B4.wav",
+    "midi": 71,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.04,
+    "peak": 0.2985
+  },
+  {
+    "source": "15_C3.wav",
+    "midi": 48,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.2511
+  },
+  {
+    "source": "16_D3.wav",
+    "midi": 50,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.04,
+    "peak": 0.2798
+  },
+  {
+    "source": "17_E3.wav",
+    "midi": 52,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.3091
+  },
+  {
+    "source": "18_F3.wav",
+    "midi": 53,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.02,
+    "peak": 0.2305
+  },
+  {
+    "source": "19_G3.wav",
+    "midi": 55,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.3004
+  },
+  {
+    "source": "20_A3.wav",
+    "midi": 57,
+    "frames": 96217,
+    "rate": 48000,
+    "onset_above_32_ms": 0.46,
+    "peak": 0.1647
+  },
+  {
+    "source": "21_B3.wav",
+    "midi": 59,
+    "frames": 105600,
+    "rate": 48000,
+    "onset_above_32_ms": 0.0,
+    "peak": 0.3486
+  }
+]

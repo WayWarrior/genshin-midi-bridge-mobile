@@ -1,0 +1,2 @@
+package com.junliang.midibridge;
+public class CoreTest { @org.junit.Test public void regressionChecks() throws Exception { CoreChecks.run(); ForegroundChecks.run(); GridChecks.run(); AudioChecks.run(); MidiFileChecks.run(); FileOptionsChecks.run(); FileTimingChecks.run(); TouchPlaybackChecks.run(); LiveTouchChecks.run(); LivePointerChecks.run(); TouchReuseChecks.run(); OverlayChecks.run(); RecoveryChecks.run(); SparkCycleChecks.run(); } }

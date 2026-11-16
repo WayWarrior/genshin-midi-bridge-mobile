@@ -1,0 +1,16 @@
+<resources>
+ <style name="GardenTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+  <item name="android:fontFamily">sans</item>
+  <item name="android:colorAccent">#497454</item>
+  <item name="android:colorControlActivated">#497454</item>
+  <item name="android:colorControlNormal">#81947B</item>
+  <item name="android:textColorPrimary">#314C3B</item>
+  <item name="android:textColorSecondary">#647569</item>
+  <item name="android:windowBackground">#F5F9F2</item>
+  <item name="android:statusBarColor">#F5F9F2</item>
+  <item name="android:navigationBarColor">#F5F9F2</item>
+  <item name="android:windowLightStatusBar">true</item>
+  <item name="android:windowLightNavigationBar">true</item>
+ </style>
+ <color name="icon_background">#F9FBF6</color>
+</resources>

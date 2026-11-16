@@ -1,0 +1,28 @@
+<resources>
+ <item type="id" name="page_home" />
+ <item type="id" name="page_connection" />
+ <item type="id" name="page_midi" />
+ <item type="id" name="page_sound" />
+ <item type="id" name="page_settings" />
+ <item type="id" name="page_samples" />
+ <item type="id" name="devices" />
+ <item type="id" name="ports" />
+ <item type="id" name="sample_notes" />
+ <item type="id" name="audio_profile" />
+ <item type="id" name="transpose" />
+ <item type="id" name="custom_package" />
+ <item type="id" name="fold" />
+ <item type="id" name="one_shot" />
+ <item type="id" name="live_hold" />
+ <item type="id" name="live_reuse" />
+ <item type="id" name="volume" />
+ <item type="id" name="accidental" />
+ <item type="id" name="touch_mode" />
+ <item type="id" name="file_speed" />
+ <item type="id" name="file_fold" />
+ <item type="id" name="file_natural" />
+ <item type="id" name="file_tempo_override" />
+ <item type="id" name="file_bpm" />
+ <item type="id" name="file_convert_c" />
+ <item type="id" name="file_source_key" />
+</resources>

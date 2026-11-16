@@ -1,0 +1,15 @@
+# 统一换行，避免 Windows / Linux 差异把 gradlew 弄成 CRLF 而跑不起来
+* text=auto eol=lf
+
+# Windows 批处理必须 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制文件，不做文本转换
+*.jar binary
+*.wav binary
+*.webp binary
+*.png binary
+*.jks binary
+*.keystore binary
+*.apk binary

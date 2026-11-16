@@ -1,0 +1,1 @@
+<resources><string name="accessibility_description">将实体 MIDI 键盘的音符映射为你校准的原神琴键点击。仅在已开启映射且原神处于前台时发送点击；校准时显示全屏触点层。不读取或保存界面文本，不发送网络请求。</string></resources>
